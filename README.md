@@ -102,7 +102,7 @@ Deploy on cloud platforms for scalability and production readiness.
 
 🖥️ Installation & Usage
 # Clone repository
-git clone https://github.com/yourusername/fraud-detection.git
+git clone(https://github.com/kunal30kunal/fraud_detection)
 cd fraud-detection
 
 # Install dependencies
@@ -130,4 +130,5 @@ Joblib (Model Serialization)
 Dataset inspired by the Credit Card Fraud Detection dataset available on Kaggle
 .
 Developed as part of a project on AI-based Financial Security Systems.
+
 
